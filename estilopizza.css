@@ -1,0 +1,21 @@
+th {
+    padding: 1em;
+}
+h1 {
+    font-size: 5em;
+    margin: auto;
+    text-align: center;
+}
+img {
+    width: 250px;
+    transition: width 0.4s ease-out;
+    border-radius: 1em;
+}
+img:hover {
+    width: 400px;
+    transition: width 0.2s ease-out;
+}
+
+table {
+    margin: auto;
+}

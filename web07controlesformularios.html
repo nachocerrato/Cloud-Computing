@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Controles de formulario</h1>
+    <form>
+        <label>Introduzca un nombre: </label>
+        <input type="text" name="cajanombre" required/>
+        <input type="hidden" name="cajaescondida">
+        <br/>
+        <br/>
+        <label>Introduzca su edad: </label>
+        <input type="range" name="edad" min="18" max="65" />
+        <br/>
+        <br/>
+        <label>Introduzca su fecha de nacimiento: </label>
+        <input type="date" name="fecha"/>
+        <br/>
+        <br/>
+        <label>Acepte las condiciones.</label>
+        <input type="checkbox" name="aceptas" required/>
+        <br/>
+        <br/>
+        <h3><label>Seleccione su equipo</label></h3>
+        <ul>
+            <li>
+                <input type="radio" value="Betis" name="equipo"/> Betis
+            </li>
+            <li>
+                <input type="radio" value="Sevilla" name="equipo"/> Sevilla
+            </li>
+            <li>
+                <input type="radio" value="Granada" name="equipo"/> Granada
+            </li>
+        </ul>
+
+        <h3><label>Seleccione su deporte</label></h3>
+        <ul>
+            <li>
+                <input type="checkbox" name="deporte" value="Petanca"/> Petanca
+            </li>
+            <li>
+                <input type="checkbox" name="deporte" value="Petanca"/> Fútbol
+            </li>
+            <li>
+                <input type="checkbox" name="deporte" value="Petanca"/> Voleibol
+            </li>
+        </ul>
+
+        <button type="submit">
+            Enviar datos
+        </button>
+    </form>
+</body>
+</html>
