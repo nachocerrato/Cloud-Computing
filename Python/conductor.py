@@ -1,7 +1,12 @@
 import coche
+from deportivo import Deportivo
 
 print("Coche")
 selec = -1
+
+supercar = Deportivo()
+
+
 
 while(selec != 0):
     coche.Coche.getEstado(coche.Coche)
