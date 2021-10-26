@@ -1,2 +1,2 @@
-Su nombre es...hola
-vale
+Su nombre es...nacho
+/usr/local/bin/python3 "/Users/nachocerrato/Dropbox/Cloud Computing/Python/ficherolistas.py"
