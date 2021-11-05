@@ -1,0 +1,14 @@
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\obj\Debug\netcoreapp3.1\FundamentosLenguaje.csproj.AssemblyReference.cache
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\obj\Debug\netcoreapp3.1\FundamentosLenguaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\obj\Debug\netcoreapp3.1\FundamentosLenguaje.AssemblyInfoInputs.cache
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\obj\Debug\netcoreapp3.1\FundamentosLenguaje.AssemblyInfo.cs
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\obj\Debug\netcoreapp3.1\FundamentosLenguaje.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\bin\Debug\netcoreapp3.1\FundamentosLenguaje.exe
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\bin\Debug\netcoreapp3.1\FundamentosLenguaje.deps.json
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\bin\Debug\netcoreapp3.1\FundamentosLenguaje.runtimeconfig.json
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\bin\Debug\netcoreapp3.1\FundamentosLenguaje.runtimeconfig.dev.json
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\bin\Debug\netcoreapp3.1\FundamentosLenguaje.dll
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\bin\Debug\netcoreapp3.1\FundamentosLenguaje.pdb
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\obj\Debug\netcoreapp3.1\FundamentosLenguaje.dll
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\obj\Debug\netcoreapp3.1\FundamentosLenguaje.pdb
+C:\Users\nacho\Dropbox\Cloud Computing\Visual Studio\FundamentosLenguaje\FundamentosLenguaje\obj\Debug\netcoreapp3.1\FundamentosLenguaje.genruntimeconfig.cache
